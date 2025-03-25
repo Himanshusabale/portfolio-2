@@ -9,7 +9,7 @@ const Education = () => {
       degree: 'Bachelor of Engineering in Information Technology',
       institution: 'Pune Institute of Computer Technology',
       year: '2022-26',
-      score: 'CGPA (up to 5th Semester): 8/10',
+      score: 'CGPA (up to 6th Semester): 8/10',
     },
     hsc: {
       institution: 'Chate college, Kolhapur',
