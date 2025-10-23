@@ -10,7 +10,7 @@ const Projects = () => {
       description: 'AI-powered Interview practice MCQ & performance generator, resume and cover letter builder with Gemini API integration for interview practice.',
       tech: ['React', 'Node.js', 'Gemini API', 'TailwindCSS'],
       github: 'https://github.com/Himanshusabale/sensai',
-      live: 'https://sensai-ashen.vercel.app/',
+      live: 'https://sensai-nu-flax.vercel.app/',
       image: 'https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?auto=format&fit=crop&q=80&w=800',
     },
     {
